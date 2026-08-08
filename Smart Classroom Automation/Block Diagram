@@ -1,0 +1,7 @@
+                  +--------------------------------------+
+Person Detect --->|                                      |
+Temperature High->|  Smart Classroom Automation System   |--> Light
+Class Mode ------>|                                      |--> Fan
+Clock ----------->|                                      |--> Projector
+Reset ----------->|                                      |
+                  +--------------------------------------+
